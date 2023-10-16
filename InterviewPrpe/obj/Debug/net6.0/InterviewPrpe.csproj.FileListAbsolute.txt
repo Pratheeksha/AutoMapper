@@ -1,0 +1,15 @@
+C:\Users\pratheeksha.jain\source\repos\InterviewPrpe\InterviewPrpe\obj\Debug\net6.0\InterviewPrpe.csproj.AssemblyReference.cache
+C:\Users\pratheeksha.jain\source\repos\InterviewPrpe\InterviewPrpe\obj\Debug\net6.0\InterviewPrpe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pratheeksha.jain\source\repos\InterviewPrpe\InterviewPrpe\obj\Debug\net6.0\InterviewPrpe.AssemblyInfoInputs.cache
+C:\Users\pratheeksha.jain\source\repos\InterviewPrpe\InterviewPrpe\obj\Debug\net6.0\InterviewPrpe.AssemblyInfo.cs
+C:\Users\pratheeksha.jain\source\repos\InterviewPrpe\InterviewPrpe\obj\Debug\net6.0\InterviewPrpe.csproj.CoreCompileInputs.cache
+C:\Users\pratheeksha.jain\source\repos\InterviewPrpe\InterviewPrpe\bin\Debug\net6.0\InterviewPrpe.exe
+C:\Users\pratheeksha.jain\source\repos\InterviewPrpe\InterviewPrpe\bin\Debug\net6.0\InterviewPrpe.deps.json
+C:\Users\pratheeksha.jain\source\repos\InterviewPrpe\InterviewPrpe\bin\Debug\net6.0\InterviewPrpe.runtimeconfig.json
+C:\Users\pratheeksha.jain\source\repos\InterviewPrpe\InterviewPrpe\bin\Debug\net6.0\InterviewPrpe.dll
+C:\Users\pratheeksha.jain\source\repos\InterviewPrpe\InterviewPrpe\bin\Debug\net6.0\InterviewPrpe.pdb
+C:\Users\pratheeksha.jain\source\repos\InterviewPrpe\InterviewPrpe\obj\Debug\net6.0\InterviewPrpe.dll
+C:\Users\pratheeksha.jain\source\repos\InterviewPrpe\InterviewPrpe\obj\Debug\net6.0\refint\InterviewPrpe.dll
+C:\Users\pratheeksha.jain\source\repos\InterviewPrpe\InterviewPrpe\obj\Debug\net6.0\InterviewPrpe.pdb
+C:\Users\pratheeksha.jain\source\repos\InterviewPrpe\InterviewPrpe\obj\Debug\net6.0\InterviewPrpe.genruntimeconfig.cache
+C:\Users\pratheeksha.jain\source\repos\InterviewPrpe\InterviewPrpe\obj\Debug\net6.0\ref\InterviewPrpe.dll
